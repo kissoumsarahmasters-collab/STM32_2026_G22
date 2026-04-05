@@ -38,7 +38,7 @@ Les trames sont envoyées en UART du STM32 vers le module LoRa, puis transmises 
 - RUCHE_TX.zip : Code de la carte émettrice (capteurs + envoi LoRa)
 - RUCHE_RX.zip : Code de la carte réceptrice (réception LoRa + affichage)
 - Rapport_BE_Kissoum_Benmerieme.pdf : Rapport complet du projet
-- Diaporama_Ruche_Connectee : Présentation du projet
+- Diaporama_Ruche_Connectee_Kissoum_Benmerieme : Présentation du projet
 
 ### Objectif pédagogique
 Ce projet permet de mettre en œuvre :
